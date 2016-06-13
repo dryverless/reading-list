@@ -55,6 +55,12 @@ A collection of references that all programmers should read.
 * Algorithms in C
     * by Robert Sedgewick
 
+* Introduction to Algorithms
+    * by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
+
+* Fundamentals of Computer Algorithms
+    * by Ellis Horowitz, Sartaj Sahni and Sanguthevar Rajasekaran
+
 ## Privacy / Security:
 
 * PGP: Pretty Good Privacy - Encryption for Everyone
