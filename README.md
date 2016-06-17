@@ -3,15 +3,25 @@ A collection of references that all programmers should read.
 
 ## General Reading:
 
-* The Signal and The Noise (by Nate Silver)
-<br>
-| Cover   |      Description      |
-|----------|:-------------:|
-| ![TheSignalAndTheNoise.jpg](./Covers/TheSignalAndTheNoise.jpg) |  People love statistics. Statistics, however, do not always love them back. The Signal and the Noise, Nate Silver's brilliant and elegant tour of the modern science-slash-art of forecasting, shows what happens when Big Data meets human nature. Baseball, weather forecasting, earthquake prediction, economics, and polling: In all of these areas, Silver finds predictions gone bad thanks to biases, vested interests, and overconfidence. But he also shows where sophisticated forecasters have gotten it right (and occasionally been ignored to boot). In today's metrics-saturated world, Silver's book is a timely and readable reminder that statistics are only as good as the people who wield them. |
-* The End of Power
-    * by Moises Naim
-* THINK: A Biography of the Watsons and IBM
-    * by William Rodgers (originally printed 1969)
+### The Signal and The Noise (by Nate Silver)
+
+| Cover         | Description |
+|---------------|-------------|
+| ![TheSignalAndTheNoise.jpg](./Covers/TheSignalAndTheNoise.jpg) | People love statistics. Statistics, however, do not always love them back. The Signal and the Noise, Nate Silver's brilliant and elegant tour of the modern science-slash-art of forecasting, shows what happens when Big Data meets human nature. Baseball, weather forecasting, earthquake prediction, economics, and polling: In all of these areas, Silver finds predictions gone bad thanks to biases, vested interests, and overconfidence. But he also shows where sophisticated forecasters have gotten it right (and occasionally been ignored to boot). In today's metrics-saturated world, Silver's book is a timely and readable reminder that statistics are only as good as the people who wield them. |
+
+
+### The End of Power (by Moises Naim)
+
+| Cover         | Description |
+|---------------|-------------|
+
+
+### THINK: A Biography of the Watsons and IBM (by William Rodgers - originally printed 1969)
+
+
+| Cover         | Description |
+|---------------|-------------|
+
 
 ## Language References:
 
