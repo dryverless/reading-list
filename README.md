@@ -1,6 +1,5 @@
-# Reading List
+# :books: Reading List
 A collection of references that all programmers should read.
-
 ## General Reading:
 
 ### The Signal and The Noise (by Nate Silver)
