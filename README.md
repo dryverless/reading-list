@@ -14,14 +14,14 @@ A collection of references that all programmers should read.
 
 | Cover         | Description |
 |---------------|-------------|
-
+| ![TheEndOfPower.png](./Covers/TheEndOfPower.jpg) | Naím, scholar and columnist, explains that “power is what we exercise over others that leads them to behave in ways they would not otherwise have behaved.” He builds his case for the decay of power claiming that power no longer buys as much; it is easier to get, harder to use, and easier to lose. Presidents, executives in financial services and oil companies, international religious leaders, and politicians continue to wield great power, but less so than their predecessors; today’s leaders have more challenges, competitors, and constraints in the form of citizen activism, global markets, and the ever-present media. The decay of power has made space globally for new ventures, companies, voices, and more opportunities, but it also holds great potential for instability. Naím concludes that now we are more vulnerable to bad ideas and bad leaders, and strongly recommends a conversation not on the obsession with “who/what is Number One” but “what is going on inside those nations, political movements, corporations, and religions.” A timely and timeless book. --Mary Whaley --This text refers to an out of print or unavailable edition of this title. |
 
 ### THINK: A Biography of the Watsons and IBM (by William Rodgers - originally printed 1969)
 
 
 | Cover         | Description |
 |---------------|-------------|
-
+| ![THINK: A Biography of the Watsons adn IBM](./Covers/ThinkIBM.jpg) | description will be available soon. |
 
 ## Language References:
 
