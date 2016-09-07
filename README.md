@@ -3,16 +3,10 @@ A collection of references that all programmers should read.
 ## General Reading:
 
 ### The Signal and The Noise (by Nate Silver)
-<table style="width:100%">
-	<tr>
-		<td style="width:30%">
-			![TheSignalAndTheNoise.jpg](./Covers/TheSignalAndTheNoise.jpg)
-		</td>
-		<td style="width:50%">
-			People love statistics. Statistics, however, do not always love them back. The Signal and the Noise, Nate Silver's brilliant and elegant tour of the modern science-slash-art of forecasting, shows what happens when Big Data meets human nature. Baseball, weather forecasting, earthquake prediction, economics, and polling: In all of these areas, Silver finds predictions gone bad thanks to biases, vested interests, and overconfidence. But he also shows where sophisticated forecasters have gotten it right (and occasionally been ignored to boot). In today's metrics-saturated world, Silver's book is a timely and readable reminder that statistics are only as good as the people who wield them.
-		</td>
-	</tr>
-</table>
+
+| Cover         | Description |
+|---------------|-------------|
+| ![TheSignalAndTheNoise.jpg](./Covers/TheSignalAndTheNoise.jpg) | People love statistics. Statistics, however, do not always love them back. The Signal and the Noise, Nate Silver's brilliant and elegant tour of the modern science-slash-art of forecasting, shows what happens when Big Data meets human nature. Baseball, weather forecasting, earthquake prediction, economics, and polling: In all of these areas, Silver finds predictions gone bad thanks to biases, vested interests, and overconfidence. But he also shows where sophisticated forecasters have gotten it right (and occasionally been ignored to boot). In today's metrics-saturated world, Silver's book is a timely and readable reminder that statistics are only as good as the people who wield them. |
 
 ### The End of Power (by Moises Naim)
 
@@ -22,16 +16,9 @@ A collection of references that all programmers should read.
 
 ### THINK: A Biography of the Watsons and IBM (by William Rodgers - originally printed 1969)
 
-<table style="width:100%">
-	<tr>
-		<td style="width:30%">
-			![THINK: A Biography of the Watsons adn IBM](./Covers/ThinkIBM.jpg)
-		</td>
-		<td style="width:50%">
-			<b>It's a dummy description.</b>. Naím, scholar and columnist, explains that “power is what we exercise over others that leads them to behave in ways they would not otherwise have behaved.” He builds his case for the decay of power claiming that power no longer buys as much; it is easier to get, harder to use, and easier to lose. Presidents, executives in financial services and oil companies, international religious leaders, and politicians continue to wield great power, but less so than their predecessors; today’s leaders have more challenges, competitors, and constraints in the form of citizen activism, global markets, and the ever-present media. The decay of power has made space globally for new ventures, companies, voices, and more opportunities, but it also holds great potential for instability. Naím concludes that now we are more vulnerable to bad ideas and bad leaders, and strongly recommends a conversation not on the obsession with “who/what is Number One” but “what is going on inside those nations, political movements, corporations, and religions.” A timely and timeless book. --Mary Whaley --This text refers to an out of print or unavailable edition of this title.
-		</td>
-	</tr>
-</table>
+| Cover         | Description |
+|---------------|-------------|
+| ![THINK: A Biography of the Watsons and IBM](./Covers/ThinkIBM.jpg) | |
 
 ## Language References:
 
